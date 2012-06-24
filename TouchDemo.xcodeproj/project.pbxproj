@@ -14,6 +14,7 @@
 		2899E5220DE3E06400AC0155 /* TouchDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* TouchDemoViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* TouchDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* TouchDemoViewController.m */; };
+		3FF61AD71596FFCE000C7CE1 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3FF61AD61596FFCD000C7CE1 /* readme.txt */; };
 		8FDF61A01297E1F800700BDC /* TouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF619F1297E1F800700BDC /* TouchView.m */; };
 		8FDF61A21297E21700700BDC /* apple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FDF61A11297E21700700BDC /* apple.jpg */; };
 		8FDF61EF1297E95200700BDC /* TouchableView+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FDF61EE1297E95200700BDC /* TouchableView+Private.m */; };
@@ -33,6 +34,7 @@
 		28D7ACF70DDB3853001CB0EB /* TouchDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchDemoViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* TouchDemo_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchDemo_Prefix.pch; sourceTree = "<group>"; };
+		3FF61AD61596FFCD000C7CE1 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FDF619E1297E1F800700BDC /* TouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchView.h; sourceTree = "<group>"; };
 		8FDF619F1297E1F800700BDC /* TouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchView.m; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				28D7ACF70DDB3853001CB0EB /* TouchDemoViewController.m */,
 				8FDF619E1297E1F800700BDC /* TouchView.h */,
 				8FDF619F1297E1F800700BDC /* TouchView.m */,
+				3FF61AD61596FFCD000C7CE1 /* readme.txt */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* TouchDemoViewController.xib in Resources */,
 				8FDF61A21297E21700700BDC /* apple.jpg in Resources */,
+				3FF61AD71596FFCE000C7CE1 /* readme.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
